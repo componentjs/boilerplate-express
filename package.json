@@ -1,7 +1,7 @@
 {
   "name": "component-boilerplate-express",
   "description": "Boilerplate for Component and Express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
